@@ -25,7 +25,7 @@ The reaction data consists of four columns:
 
 **Task**: Find the pair of users with the highest number of jobs that they both like.
 
-**Answer**: [Enter the two user IDs & the number of jobs they both like here]
+**Answer**: _[Enter the two user IDs & the number of jobs they both like here]_
 
 ### Task 2
 
@@ -33,7 +33,7 @@ In the `data` folder there is an additional CSV file called `jobs.csv`. It conta
 
 **Task**: Using both the `reactions.csv` and `jobs.csv` data, find the two companies which share the highest number of users who have liked at least one the company's jobs.
 
-**Answer**: [Enter the two company IDs & the number of users who like them both here]
+**Answer**: _[Enter the two company IDs & the number of users who like them both here]_
 
 ### Task 3
 
@@ -47,11 +47,11 @@ We know your time is precious and don't think it's fair to ask you to build some
 - If the best example of your work is something you've done at a company, it's okay to link to a live deployed version
 - If you can't link to anything, a screenshot is also fine
 
-**Answer**: [Add a link to repo/website/screenshot here]
+**Answer**: _[Add a link to repo/website/screenshot here]_
 
 **Task**: Tell us about the biggest challenge you faced in building the above.
 
-**Answer**: [Write your answer here (300 words max)]
+**Answer**: _[Write your answer here (300 words max)]_
 
 ## Submission
 
