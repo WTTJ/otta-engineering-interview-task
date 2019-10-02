@@ -8,7 +8,7 @@ We expect the task to take one hour. If you require clarification on anything, p
 
 ## Instructions
 
-Start by cloning this repository using your personal GitHub account. Create a new private repository and push your clone to this new repo. Please ensure all of your work is committed to this - we'll only consider the `master` branch.
+Start by cloning this repository using your personal GitHub account. Create a new private repository and push your clone to this new repo (you will need to remove the original remote with `git remote remove origin`). Please ensure all of your work is committed to this - we'll only consider the `master` branch.
 
 The following details the individual tasks. Please complete **all** of the them. You may use any programming language, provided all of the code used can be committed to this repo.
 
