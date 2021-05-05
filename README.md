@@ -2,7 +2,7 @@
 
 This is the take-home interview task for engineering job applications at Otta.
 
-The goal is to both give you a flavour of the kind of work we do, and give us an idea of your technical (and non-technical) skills.
+The goal is to both give you a flavour of the kind of work we do, and give us an idea of your technical (and non-technical) skills. The key thing we're assessing is your level of pragmatism, but we're also interested in code style and how you structure the problem (so please don't just do it in SQL!)
 
 We expect the task to take one hour. If you require clarification on anything, please don't hesitate to contact us.
 
@@ -10,11 +10,11 @@ We expect the task to take one hour. If you require clarification on anything, p
 
 Start by cloning this repository using your personal GitHub account. Create a new private repository and push your clone to this new repo (you will need to remove the original remote with `git remote remove origin`). Please ensure all of your work is committed to this - we'll only consider the `master` branch.
 
-The following details the individual tasks. Please complete **all** of the them. You may use any programming language, provided all of the code used can be committed to this repo.
+The following details the individual tasks. Please complete **all** of the them. You may **use any programming language**, provided all of the code used can be committed to this repo. You don't need to provide instructions for running the code, or any explanation other than the answers.
 
 ### Task 1
 
-In the `data` folder of this repo there is a CSV file called `reactions.csv`. It contains real data corresponding to how users on Otta have reacted to (saved or discarded) jobs on the platform.
+In the `data` folder of this repo there is a CSV file called `reactions.csv`. It contains real data corresponding to how users on Otta have reacted to (saved or skipped) jobs on the platform.
 
 The reaction data consists of four columns:
 
