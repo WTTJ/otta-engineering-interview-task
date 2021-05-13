@@ -8,7 +8,7 @@ We expect the task to take one hour. If you require clarification on anything, p
 
 ## Instructions
 
-Start by cloning this repository using your personal GitHub account. Create a new private repository and push your clone to this new repo (you will need to remove the original remote with `git remote remove origin`). Please ensure all of your work is committed to this - we'll only consider the `master` branch.
+Start by cloning this repository using your personal GitHub account. Create a new private repository and push your clone to this new repo (you will need to remove the original remote with `git remote remove origin`). Please ensure all of your work is committed to this - we'll only consider the `main` branch.
 
 The following details the individual tasks. Please complete **all** of the them. You may **use any programming language**, provided all of the code used can be committed to this repo. You don't need to provide instructions for running the code, or any explanation other than the answers.
 
@@ -57,7 +57,7 @@ We don't think it's fair to ask you to build something with a UI, as we know thi
 
 Once you've completed all of the above tasks, make sure:
 
-- [ ] You've committed all of the code used, and your edited answers, to the `master` branch
+- [ ] You've committed all of the code used, and your edited answers, to the `main` branch
 - [ ] You've pushed the changes to your repo
 - [ ] You add `XavKearney` and `shfranklin` as contributors for your personal repo, and send a link to the repo in an email or Otta message to us
 
