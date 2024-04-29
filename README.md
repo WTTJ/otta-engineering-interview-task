@@ -59,6 +59,6 @@ Once you've completed all of the above tasks, make sure:
 
 - [ ] You've committed all of the code used, and your edited answers, to the `main` branch
 - [ ] You've pushed the changes to your repo
-- [ ] You add `XavKearney` and `billyotta` as contributors for your personal repo, and send a link to the repo in an email or Otta message to us
+- [ ] You add `billyotta` as a contributor for your personal repo, and send a link to the repo in an email or Otta message to us
 
 Good luck!
